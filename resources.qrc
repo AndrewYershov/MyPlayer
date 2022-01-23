@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icons/iconapp.png</file>
+        <file>icons/icons8-воспроизведение-48.png</file>
+        <file>icons/icons8-выключить-звук-50.png</file>
+        <file>icons/icons8-громкий-звук-50.png</file>
+        <file>icons/icons8-добавить-альбом-50.png</file>
+        <file>icons/icons8-добавить-песню-60.png</file>
+        <file>icons/icons8-конец-30.png</file>
+        <file>icons/icons8-крестик-xbox-50.png</file>
+        <file>icons/icons8-папка-с-музыкой-50.png</file>
+        <file>icons/icons8-пауза-30.png</file>
+        <file>icons/icons8-перейти-в-начало-30.png</file>
+        <file>icons/icons8-перемешать-48.png</file>
+        <file>icons/icons8-средняя-громкость-50.png</file>
+        <file>icons/icons8-стоп-96.png</file>
+        <file>icons/icons8-media-64.png</file>
+        <file>icons/icons8-music-player-60.png</file>
+        <file>icons/icons8-retweet-48.png</file>
+    </qresource>
+</RCC>
